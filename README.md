@@ -259,9 +259,6 @@ Function Prototypes
     * Extracting the root node.
     * Searching for a node in a binary heap of size `n`.
 
-## Authors :black_nib:
+## Author :black_nib:
 
-- [Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
-
-- [Wilder De Jesus Rincon Iriarte](https://www.linkedin.com/in/wildsrincon/) | [Twitter](https://twitter.com/wildsrincon) | [GitHub](https://github.com/wildcox80)
-
+- [Adeboye Victor Oyekanmi] [Gmail](adeboyevictor18@gmail.com) | [Twitter](https://twitter.com/vickky9ice) | [GitHub](https://github.com/vickky9ice)
